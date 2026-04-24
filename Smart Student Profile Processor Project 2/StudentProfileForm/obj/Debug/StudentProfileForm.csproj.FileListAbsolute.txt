@@ -1,0 +1,21 @@
+C:\Users\dzand\Desktop\Smart Student Profile Processor\StudentProfileForm\bin\Debug\StudentProfileForm.exe.config
+C:\Users\dzand\Desktop\Smart Student Profile Processor\StudentProfileForm\bin\Debug\StudentProfileForm.exe
+C:\Users\dzand\Desktop\Smart Student Profile Processor\StudentProfileForm\bin\Debug\StudentProfileForm.pdb
+C:\Users\dzand\Desktop\Smart Student Profile Processor\StudentProfileForm\obj\Debug\StudentProfileForm.csproj.AssemblyReference.cache
+C:\Users\dzand\Desktop\Smart Student Profile Processor\StudentProfileForm\obj\Debug\StudentProfileForm.Form1.resources
+C:\Users\dzand\Desktop\Smart Student Profile Processor\StudentProfileForm\obj\Debug\StudentProfileForm.Properties.Resources.resources
+C:\Users\dzand\Desktop\Smart Student Profile Processor\StudentProfileForm\obj\Debug\StudentProfileForm.csproj.GenerateResource.cache
+C:\Users\dzand\Desktop\Smart Student Profile Processor\StudentProfileForm\obj\Debug\StudentProfileForm.csproj.CoreCompileInputs.cache
+C:\Users\dzand\Desktop\Smart Student Profile Processor\StudentProfileForm\obj\Debug\StudentProfileForm.exe
+C:\Users\dzand\Desktop\Smart Student Profile Processor\StudentProfileForm\obj\Debug\StudentProfileForm.pdb
+C:\Users\dzand\Desktop\Smart Student Profile Processor Project 2\StudentProfileForm\bin\Debug\StudentProfileForm.exe.config
+C:\Users\dzand\Desktop\Smart Student Profile Processor Project 2\StudentProfileForm\bin\Debug\StudentProfileForm.exe
+C:\Users\dzand\Desktop\Smart Student Profile Processor Project 2\StudentProfileForm\bin\Debug\StudentProfileForm.pdb
+C:\Users\dzand\Desktop\Smart Student Profile Processor Project 2\StudentProfileForm\obj\Debug\StudentProfileForm.csproj.AssemblyReference.cache
+C:\Users\dzand\Desktop\Smart Student Profile Processor Project 2\StudentProfileForm\obj\Debug\StudentProfileForm.exe.config
+C:\Users\dzand\Desktop\Smart Student Profile Processor Project 2\StudentProfileForm\obj\Debug\StudentProfileForm.Form1.resources
+C:\Users\dzand\Desktop\Smart Student Profile Processor Project 2\StudentProfileForm\obj\Debug\StudentProfileForm.Properties.Resources.resources
+C:\Users\dzand\Desktop\Smart Student Profile Processor Project 2\StudentProfileForm\obj\Debug\StudentProfileForm.csproj.GenerateResource.cache
+C:\Users\dzand\Desktop\Smart Student Profile Processor Project 2\StudentProfileForm\obj\Debug\StudentProfileForm.csproj.CoreCompileInputs.cache
+C:\Users\dzand\Desktop\Smart Student Profile Processor Project 2\StudentProfileForm\obj\Debug\StudentProfileForm.exe
+C:\Users\dzand\Desktop\Smart Student Profile Processor Project 2\StudentProfileForm\obj\Debug\StudentProfileForm.pdb
